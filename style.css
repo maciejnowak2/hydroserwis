@@ -1,0 +1,143 @@
+body {
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+    color: #1C2A36;
+    margin-top: 5px;
+    max-width: 1920px;
+}
+
+.mail a {
+    text-decoration: none!important;
+    color: white;
+    font-weight: 600;
+}
+
+.mail button {
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.logo {
+    justify-content: center;
+    font-weight: 600;
+}
+
+.logo h2 {
+    font-weight: 600;
+}
+
+.nav {
+    width: 100vw;
+    position: fixed;
+    background-color: #78B3E3;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+button {
+    padding: 50px;
+}
+
+.header {
+    background-image: url(img/plumber.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 700px;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 600px) {
+    button {
+        margin: 10px;
+    }
+    .header1 {
+        max-width: 450px
+    }
+}
+
+.header1 {
+    margin-top: 400px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    background: rgba( 255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37);
+    backdrop-filter: blur( 3px);
+    -webkit-backdrop-filter: blur( 3px);
+    border-radius: 8px;
+    border: 3px solid rgba( 255, 255, 255, 0.18);
+    text-align: center;
+}
+
+.header1 a {
+    text-decoration: none!important;
+    color: white;
+}
+
+.header1 h1 {
+    font-weight: 600;
+}
+
+.header1 button {
+    margin-top: 25px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.oferta {
+    color: #1C2A36;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    line-height: 45px;
+    justify-content: center;
+    align-items: center;
+}
+
+.oferta h2 {
+    font-weight: 600;
+}
+
+.oferta img {
+    max-width: 90%;
+    height: auto;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: #1A5482;
+    color: white!important;
+    text-decoration: none!important;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer a {
+    color: white!important;
+    text-decoration: none!important;
+}
+
+.footer1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer h5 {
+    font-weight: 600;
+}
+
+.footer1 h5 {
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.copy {
+    font-size: 10px;
+}
