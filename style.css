@@ -52,7 +52,18 @@ button {
         margin: 10px;
     }
     .header1 {
-        max-width: 450px
+        max-width: 400px;
+    }
+    .header {
+        background-size: cover;
+        justify-content: center;
+        text-align: center;
+    }
+    .logo {
+        margin-top: 10px;
+    }
+    .center {
+        justify-content: center;
     }
 }
 
