@@ -26,9 +26,6 @@ body {
 }
 
 .nav {
-
-    width: 100vw;
-    position: fixed;
     background-color: #78B3E3;
     justify-content: center;
     align-items: center;
