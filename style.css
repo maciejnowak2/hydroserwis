@@ -27,7 +27,7 @@ body {
 }
 
 .nav {
-    width: 100vw;
+max-width: 1680px;
     position: fixed;
     background-color: #78B3E3;
     justify-content: center;
