@@ -3,7 +3,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #1C2A36;
     margin-top: 5px;
-    max-width: 1680px;
+    max-width: 1920px;
 }
 
 .mail a {
@@ -27,7 +27,7 @@ body {
 }
 
 .nav {
-    max-width: 1680px;
+
     width: 100%;
     position: fixed;
     background-color: #78B3E3;
