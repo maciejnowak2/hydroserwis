@@ -70,6 +70,7 @@ button {
     }
     .nav {
         position: static;
+        width: 100vw;
     }
 }
 
