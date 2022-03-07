@@ -30,13 +30,13 @@ body {
     max-width: 1680px;
     width: 100%;
     position: fixed;
-    background-color: #78B3E3;
-    
+    background-color: #78B3E3
     align-items: center;
     text-align: center;
 }
 .nav2{
     justify-content: space-between;
+}
 
 button {
     padding: 50px;
